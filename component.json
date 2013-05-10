@@ -1,0 +1,12 @@
+{
+  "name": "padlog",
+  "version": "2.0.0",
+  "dependencies": {
+    "sass-bootstrap": "~2.3.0",
+    "modernizr": "~2.6.2",
+    "jquery": "~1.9.1",
+    "handlebars": "~1.0.0-rc.3",
+    "ember": "~1.0.0-rc.3"
+  },
+  "devDependencies": {}
+}
